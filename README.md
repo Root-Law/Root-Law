@@ -27,7 +27,7 @@ Implementing deterministic software testing frameworks to audit and guarantee co
 | Repository / Module | Context & Intent | Core Technology Stack |
 | :--- | :--- | :--- |
 | **ExperimentalOS** *(Research)* | A next-generation operating system focused on native, conversational-level command execution (IAA). Built from the bootloader up, running inside isolated Hyper-V virtual sandboxes. | Assembly, Custom Kernel, Hyper-V |
-| **RAG-Studio-AI-Wrapper** *(Public)* | A lightweight, Qt6-native local AI client and context organizer. Turns local files into an offline, private brain for developers and indie creators. Open for public community testing. | Python, Qt6, Local AI API Systems |
+| **RAG Trigger Studio** *(Public)* | A lightweight, Qt6-native local AI client and context organizer. Turns local files into an offline, private brain for developers and indie creators. Open for public community testing. | Python, Qt6, Local AI API Systems |
 | **Guardian Engine** *(Research Integration)* | A memory-aware, symbolic active learning agent that filters data anomalies, assesses hypothesis spaces, and adapts its exploration vectors dynamically. Serves as the security layer for ExperimentalOS. | Python 3.14, Pytest, Structured JSONL Logging |
 | **Plaintext Editor** *(Public)* | A high-efficiency, clutter-free text interface built line-by-line from first principles to prioritize processing speed and distraction-free programming. | C++, Terminal POSIX API |
 
